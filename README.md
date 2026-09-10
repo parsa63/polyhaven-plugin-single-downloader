@@ -6,7 +6,7 @@ How to use
 
 Install the Poly Haven Blender add-on.
 
-Change the MAKE_BLEND path in the script to your local Poly Haven add-on location(line 41,42).
+Change the MAKE_BLEND path in the script to your local Poly Haven add-on location(line 40).
 
 Open the script in Blender's Scripting workspace.
 
