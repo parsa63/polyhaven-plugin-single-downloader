@@ -17,5 +17,5 @@ Run the script in Blender's Scripting workspace.
 
 ASSET_SLUG and TYPE guide
 Copy the asset slug (Asset name) from the Poly Haven website URL. This avoids mistakes with characters in the asset name.
-Example:      https://polyhaven.com/models/metal_office_desk            Slug: metal_office_desk
+Example:      https://polyhaven.com/a/metal_office_desk            Slug: metal_office_desk
 Type 0 = HDRIs Type 1 = Textures Type 2 = 3D Models
