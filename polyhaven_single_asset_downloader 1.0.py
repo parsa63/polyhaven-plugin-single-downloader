@@ -33,15 +33,11 @@ TYPE = "1"
 RESOLUTION = "1k"
 
 
-# ========================================================================================================================
+# ================================================================================================================
 # Replace this with your exact make_blend.py in your add-on path // polyhavenassets-main  > utils > make_blend.py
-# ========================================================================================================================
+# ================================================================================================================
 
-MAKE_BLEND = Path(
-    r"C:\Users\ASUS\AppData\Roaming\Blender Foundation\Blender\5.2"
-    r"\scripts\addons\polyhavenassets-main\utils\make_blend.py"
-)
-
+MAKE_BLEND = Path(r"C:\Users\ASUS\AppData\Roaming\Blender Foundation\Blender\5.2\scripts\addons\polyhavenassets-main\utils\make_blend.py")
 
 
 
